@@ -1,13 +1,12 @@
-# **Rock, Paper, Scissors Game Project**
+# **Music Player Project**
 
 ## **Project Overview**
 
 
-#### This Project Is A **Rock, Paper, Scissors Game**, Developed As Part of The FreeCodeCamp Curriculum. 
+#### This Project Is A **Music Player**, Developed As Part of The FreeCodeCamp Curriculum. 
 
-#### The Primary Goal Is You Learned How To Work With Basic DOM Manipulation.
+#### The Primary Goal Is You Learned Basic String and Array Methods By Building A Music Player.
 
-Now It Is Time To Review What You Have Learned By Building a Rock, Paper, Scissors Game.
 
 
 ## **Course Details**
@@ -15,7 +14,7 @@ Now It Is Time To Review What You Have Learned By Building a Rock, Paper, Scisso
 
 + **Course Section**: JavaScript Algorithms and Data Structures (Beta).
   
-+ **Project Name**: Rock, Paper, Scissors Game.
++ **Project Name**: Music Player.
   
 + This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
   
@@ -24,13 +23,15 @@ Now It Is Time To Review What You Have Learned By Building a Rock, Paper, Scisso
 
 ## **Purpose**
 
-In The Previous Projects You Learned How To Work With Basic DOM Manipulation. 
+Now Let's Learn Some Essential String And Array Methods Like The Find(), ForEach(), Map(), And Join(). 
 
-Now It Is Time To Review What You Have Learned By Building A Rock, Paper, Scissors Game.  
+These Methods Are Crucial For Developing Dynamic Web Applications.  
 
-In This Mini Project, You Will Review Conditionals, Functions, GetElementById, And More. 
+In This Project, You'll Code A Basic MP3 Player Using HTML, CSS, And JavaScript. 
 
-This Project Will Give You An Opportunity To Solve Small Problems And Get A Better Understanding Of The Basics.
+The Project Covers Fundamental Concepts Such As Handling Audio Playback, Managing A Playlist, Implementing Play, Pause, Next, Previous, And Shuffle Functionalities. 
+
+You'll Even Learn How To Dynamically Update Your User Interface Based On The Current Song.
 
 
 ## **Acknowledgment**
