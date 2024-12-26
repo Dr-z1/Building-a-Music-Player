@@ -1,36 +1,60 @@
-# Building-a-Music-Player
-Building a Music Player
+# **Rock, Paper, Scissors Game Project**
 
-This website was built using Free Code Camp instructions: Learning Basic String And Array Methods By Building Music Player
-
-Section: JavaScript Algorithms and Data Structures (Beta)
-
-Course Name: Learning Basic String And Array Methods By Building Music Player
-
-Deatils:
-
-Now let's learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications.
-
-In this project, you'll code a basic MP3 player using HTML, CSS, and JavaScript. 
-
-The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities. 
-
-You'll even learn how to dynamically update your user interface based on the current song.
-
-Link:
-
-https://www.freecodecamp.org/
+## **Project Overview**
 
 
+#### This Project Is A **Rock, Paper, Scissors Game**, Developed As Part of The FreeCodeCamp Curriculum. 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### The Primary Goal Is You Learned How To Work With Basic DOM Manipulation.
+
+Now It Is Time To Review What You Have Learned By Building a Rock, Paper, Scissors Game.
 
 
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
+## **Course Details**
 
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
 
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
++ **Course Section**: JavaScript Algorithms and Data Structures (Beta).
+  
++ **Project Name**: Rock, Paper, Scissors Game.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
+  
 
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
+## **Purpose**
+
+In The Previous Projects You Learned How To Work With Basic DOM Manipulation. 
+
+Now It Is Time To Review What You Have Learned By Building A Rock, Paper, Scissors Game.  
+
+In This Mini Project, You Will Review Conditionals, Functions, GetElementById, And More. 
+
+This Project Will Give You An Opportunity To Solve Small Problems And Get A Better Understanding Of The Basics.
+
+
+## **Acknowledgment**
+
+
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
+
+All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
+
+I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
+
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
+
+## **Special Thanks**
+
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
+
+**[@codeManS](https://www.youtube.com/@codeManS)**
+
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
+
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
+
+
+
+
 
